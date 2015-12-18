@@ -1,0 +1,28 @@
+name: danielrahman
+favicon: null
+layout_spectrum: 0.04339982708916068
+typography_spectrum: 0.11437920038588345
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7968865684233606
+  lightness: 0.3287585361395031
+  saturation: 0.4820866354275495
+  rhythmicContrast: 0.25246777571737766
+purpose: []
